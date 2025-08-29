@@ -35,7 +35,19 @@ public class IF2000_INTRODUCCION_PROGRA {
     Lab1 pract1;
     pract1 = new Lab1();
     //pract1.ejercicio_1();
-    pract1.ejercicio_2();
+    //pract1.ejercicio_2();
+    //pract1.ejercicio_3();
+    //pract1.ejercicio_4();
+    //pract1.ejercicio_5();
+    //pract1.ejercicio_6();
+    //pract1.ejercicio_7();
+    //pract1.ejercicio_8();
+    //pract1.ejercicio_9();
+    //pract1.ejercicio_10();
+    //pract1.ejercicio_11();
+    //pract1.ejercicio_12();
+
+    
    
     /*
      Quiz_3 ej;
