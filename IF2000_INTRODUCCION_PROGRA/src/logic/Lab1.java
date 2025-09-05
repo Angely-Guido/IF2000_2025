@@ -291,12 +291,7 @@ public class Lab1 {
              
         }// end method
         
-        public void ejercicio_13(){
-            
-            
-        
-        }
-    
+       
 
     }
 

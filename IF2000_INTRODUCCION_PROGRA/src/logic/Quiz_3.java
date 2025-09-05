@@ -6,7 +6,7 @@ package logic;
 
 /**
  *
- * @author josse
+ * @author 
  */
 public class Quiz_3 {
     

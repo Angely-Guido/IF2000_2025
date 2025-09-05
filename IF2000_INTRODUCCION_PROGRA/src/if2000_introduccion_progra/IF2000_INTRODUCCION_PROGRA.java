@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package if2000_introduccion_progra;
 import logic.*;
 
@@ -22,7 +19,7 @@ public class IF2000_INTRODUCCION_PROGRA {
      Ejercicios_Semana2_PracticaEnClase ej;
      ej = new Ejercicios_Semana2_PracticaEnClase();
      //ej.quiz2_B_piramide(5);
-     //ej.ejercicio_A(5);
+    // ej.ejercicio_A(5);
     // ej.ejercicio_B(12);
     // ej.ejercicio_C(12);
     //ej.ejercicio_D();
@@ -54,6 +51,24 @@ public class IF2000_INTRODUCCION_PROGRA {
      ej = new Quiz_3();
      ej.parte_3(5);
    */
+    
+    Lab2 pract2;
+    pract2 = new Lab2();
+    //pract2.ejercicio_13();
+    //pract2.ejercicio_14();
+    //pract2.ejercicio_15();
+    //pract2.ejercicio_16();
+    //pract2.ejercicio_17();
+    //pract2.ejercicio_18();
+    //pract2.ejercicio_19();
+    //pract2.ejercicio_20();
+    //pract2.ejercicio_21();
+    //pract2.ejercicio_22();
+    //pract2.ejercicio_23();
+    //pract2.ejercicio_24();
+   // pract2.ejercicio_25();
+    //pract2.ejercicio_26();
+    //pract2.ejercicio_27();
   
 }
 }
